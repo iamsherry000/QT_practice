@@ -16,3 +16,6 @@
  
 ## 成果
 ![Recording 2023-02-08 at 11 29 29](https://user-images.githubusercontent.com/39553867/217428049-fa36aa9e-3e5e-4d4c-93e6-b22d58f0a224.gif)
+
+## notion 紀錄
+https://happy-chemistry-9fd.notion.site/Qt-Calculator-4c2eda60c5b040d1a2ef232bed49a829
