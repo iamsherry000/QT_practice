@@ -24,3 +24,5 @@ Results
     - 方法二
       - 用.toStdString()把原本的Qstring轉成String
       - 用find()去抓String position
+## Notion 紀錄
+https://happy-chemistry-9fd.notion.site/Day27-e202f99a6684481bb9bfbc2439992db9
